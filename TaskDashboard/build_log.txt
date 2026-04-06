@@ -1,0 +1,138 @@
+﻿> Task :gradle-plugin:compileKotlin UP-TO-DATE
+> Task :gradle-plugin:compileJava NO-SOURCE
+> Task :gradle-plugin:pluginDescriptors UP-TO-DATE
+> Task :gradle-plugin:processResources UP-TO-DATE
+> Task :gradle-plugin:classes UP-TO-DATE
+> Task :gradle-plugin:jar UP-TO-DATE
+> Task :gradle-plugin:inspectClassesForKotlinIC UP-TO-DATE
+> Task :nozbe_watermelondb:preBuild UP-TO-DATE
+> Task :nozbe_watermelondb:preReleaseBuild UP-TO-DATE
+> Task :nozbe_watermelondb:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :nozbe_watermelondb:mergeReleaseNativeLibs NO-SOURCE
+> Task :nozbe_watermelondb:stripReleaseDebugSymbols NO-SOURCE
+> Task :nozbe_watermelondb:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :nozbe_watermelondb:generateReleaseResValues UP-TO-DATE
+> Task :nozbe_watermelondb:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :nozbe_watermelondb:generateReleaseBuildConfig UP-TO-DATE
+> Task :nozbe_watermelondb:generateReleaseResources UP-TO-DATE
+> Task :nozbe_watermelondb:packageReleaseResources UP-TO-DATE
+> Task :nozbe_watermelondb:parseReleaseLocalResources UP-TO-DATE
+> Task :nozbe_watermelondb:processReleaseManifest UP-TO-DATE
+> Task :nozbe_watermelondb:generateReleaseRFile UP-TO-DATE
+> Task :nozbe_watermelondb:compileReleaseKotlin NO-SOURCE
+> Task :nozbe_watermelondb:extractReleaseAnnotations UP-TO-DATE
+> Task :nozbe_watermelondb:javaPreCompileRelease UP-TO-DATE
+> Task :nozbe_watermelondb:compileReleaseJavaWithJavac UP-TO-DATE
+> Task :nozbe_watermelondb:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+> Task :nozbe_watermelondb:mergeReleaseConsumerProguardFiles UP-TO-DATE
+> Task :nozbe_watermelondb:mergeReleaseShaders UP-TO-DATE
+> Task :nozbe_watermelondb:compileReleaseShaders NO-SOURCE
+> Task :nozbe_watermelondb:generateReleaseAssets UP-TO-DATE
+> Task :nozbe_watermelondb:packageReleaseAssets UP-TO-DATE
+> Task :nozbe_watermelondb:prepareLintJarForPublish UP-TO-DATE
+> Task :nozbe_watermelondb:prepareReleaseArtProfile UP-TO-DATE
+> Task :nozbe_watermelondb:processReleaseJavaRes NO-SOURCE
+> Task :nozbe_watermelondb:mergeReleaseJavaResource UP-TO-DATE
+> Task :nozbe_watermelondb:syncReleaseLibJars UP-TO-DATE
+> Task :nozbe_watermelondb:writeReleaseAarMetadata UP-TO-DATE
+> Task :nozbe_watermelondb:bundleReleaseLocalLintAar UP-TO-DATE
+> Task :react-native-community_netinfo:preBuild UP-TO-DATE
+> Task :react-native-community_netinfo:preReleaseBuild UP-TO-DATE
+> Task :react-native-community_netinfo:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :react-native-community_netinfo:mergeReleaseNativeLibs NO-SOURCE
+> Task :react-native-community_netinfo:stripReleaseDebugSymbols NO-SOURCE
+> Task :react-native-community_netinfo:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :react-native-community_netinfo:generateReleaseResValues UP-TO-DATE
+> Task :react-native-community_netinfo:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :react-native-community_netinfo:generateReleaseBuildConfig UP-TO-DATE
+> Task :react-native-community_netinfo:generateReleaseResources UP-TO-DATE
+> Task :react-native-community_netinfo:packageReleaseResources UP-TO-DATE
+> Task :react-native-community_netinfo:parseReleaseLocalResources UP-TO-DATE
+> Task :react-native-community_netinfo:processReleaseManifest UP-TO-DATE
+> Task :react-native-community_netinfo:generateReleaseRFile UP-TO-DATE
+> Task :react-native-community_netinfo:extractReleaseAnnotations UP-TO-DATE
+> Task :react-native-community_netinfo:javaPreCompileRelease UP-TO-DATE
+> Task :react-native-community_netinfo:compileReleaseJavaWithJavac UP-TO-DATE
+> Task :react-native-community_netinfo:mergeReleaseGeneratedProguardFiles UP-TO-DATE
+> Task :react-native-community_netinfo:mergeReleaseConsumerProguardFiles UP-TO-DATE
+> Task :react-native-community_netinfo:mergeReleaseShaders UP-TO-DATE
+> Task :react-native-community_netinfo:compileReleaseShaders NO-SOURCE
+> Task :react-native-community_netinfo:generateReleaseAssets UP-TO-DATE
+> Task :react-native-community_netinfo:packageReleaseAssets UP-TO-DATE
+> Task :react-native-community_netinfo:prepareLintJarForPublish UP-TO-DATE
+> Task :react-native-community_netinfo:prepareReleaseArtProfile UP-TO-DATE
+> Task :react-native-community_netinfo:processReleaseJavaRes NO-SOURCE
+> Task :react-native-community_netinfo:mergeReleaseJavaResource UP-TO-DATE
+> Task :react-native-community_netinfo:syncReleaseLibJars UP-TO-DATE
+> Task :react-native-community_netinfo:writeReleaseAarMetadata UP-TO-DATE
+> Task :react-native-community_netinfo:bundleReleaseLocalLintAar UP-TO-DATE
+> Task :react-native-safe-area-context:preBuild UP-TO-DATE
+> Task :react-native-safe-area-context:preReleaseBuild UP-TO-DATE
+> Task :react-native-safe-area-context:mergeReleaseJniLibFolders UP-TO-DATE
+> Task :react-native-safe-area-context:mergeReleaseNativeLibs NO-SOURCE
+> Task :react-native-safe-area-context:stripReleaseDebugSymbols NO-SOURCE
+> Task :react-native-safe-area-context:copyReleaseJniLibsProjectAndLocalJars UP-TO-DATE
+> Task :react-native-safe-area-context:generateReleaseResValues UP-TO-DATE
+> Task :react-native-safe-area-context:extractDeepLinksForAarRelease UP-TO-DATE
+> Task :react-native-safe-area-context:generateReleaseBuildConfig UP-TO-DATE
+> Task :react-native-safe-area-context:generateReleaseResources UP-TO-DATE
+> Task :react-native-safe-area-context:packageReleaseResources UP-TO-DATE
+> Task :react-native-safe-area-context:parseReleaseLocalResources UP-TO-DATE
+> Task :react-native-safe-area-context:processReleaseManifest UP-TO-DATE
+> Task :react-native-safe-area-context:generateReleaseRFile UP-TO-DATE
+> Task :react-native-safe-area-context:javaPreCompileRelease UP-TO-DATE
+> Task :react-native-safe-area-context:mergeReleaseShaders UP-TO-DATE
+> Task :react-native-safe-area-context:compileReleaseShaders NO-SOURCE
+> Task :react-native-safe-area-context:generateReleaseAssets UP-TO-DATE
+> Task :react-native-safe-area-context:packageReleaseAssets UP-TO-DATE
+> Task :react-native-safe-area-context:prepareLintJarForPublish UP-TO-DATE
+> Task :react-native-safe-area-context:prepareReleaseArtProfile UP-TO-DATE
+> Task :react-native-safe-area-context:writeReleaseAarMetadata UP-TO-DATE
+> Task :react-native-screens:preBuild UP-TO-DATE
+> Task :react-native-screens:preReleaseBuild UP-TO-DATE
+> Task :react-native-screens:configureCMakeRelWithDebInfo[arm64-v8a]
+> Task :react-native-screens:buildCMakeRelWithDebInfo[arm64-v8a]
+> Task :react-native-screens:configureCMakeRelWithDebInfo[armeabi-v7a]
+
+> Task :react-native-safe-area-context:compileReleaseKotlin FAILED
+.\gradlew.bat : e: file:///C:/Users/ASUS/OneDrive/Desktop/APP-GM/TaskDashboard/node_modules/react-nat
+ive-safe-area-context/android/src/main/java/com/th3rdwave/safeareacontext/SafeAreaContextPackage.kt:3
+:27 Unresolved reference: BaseReactPackage
+En línea: 1 Carácter: 1
++ .\gradlew.bat assembleRelease 2>&1 | Out-File -FilePath "..\build_log ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (e: file:///C:/U...aseReactPackage:String) [], RemoteExc 
+   eption
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+e: file:///C:/Users/ASUS/OneDrive/Desktop/APP-GM/TaskDashboard/node_modules/react-native-safe-area-co
+ntext/android/src/main/java/com/th3rdwave/safeareacontext/SafeAreaContextPackage.kt:13:32 Unresolved 
+reference: BaseReactPackage
+e: file:///C:/Users/ASUS/OneDrive/Desktop/APP-GM/TaskDashboard/node_modules/react-native-safe-area-co
+ntext/android/src/main/java/com/th3rdwave/safeareacontext/SafeAreaContextPackage.kt:14:3 'getModule' 
+overrides nothing
+e: file:///C:/Users/ASUS/OneDrive/Desktop/APP-GM/TaskDashboard/node_modules/react-native-safe-area-co
+ntext/android/src/main/java/com/th3rdwave/safeareacontext/SafeAreaContextPackage.kt:21:3 
+'getReactModuleInfoProvider' overrides nothing
+e: file:///C:/Users/ASUS/OneDrive/Desktop/APP-GM/TaskDashboard/node_modules/react-native-safe-area-co
+ntext/android/src/main/java/com/th3rdwave/safeareacontext/SafeAreaContextPackage.kt:38:3 
+'createViewManagers' overrides nothing
+
+> Task :react-native-screens:buildCMakeRelWithDebInfo[armeabi-v7a]
+
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':react-native-safe-area-context:compileReleaseKotlin'.
+> A failure occurred while executing 
+org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkers$GradleKotlinCompilerWorkAction
+   > Compilation error. See log for more details
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+> Get more help at https://help.gradle.org.
+
+BUILD FAILED in 18s
+69 actionable tasks: 5 executed, 64 up-to-date

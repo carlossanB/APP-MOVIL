@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+        Exposes files in app's private internal storage via FileProvider.
+        Used by CameraModule to create a secure URI for ACTION_IMAGE_CAPTURE.
+        Path: /data/data/com.taskdashboard/files/photos/
+    -->
+    <files-path
+        name="private_photos"
+        path="photos/" />
+</paths>
